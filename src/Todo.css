@@ -1,0 +1,30 @@
+html {
+    width: 80%;
+    margin: 5em auto;
+    font-family: ff-chambers-sans-web, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+.contentbox{
+
+    font-size:large; 
+    display: flex;
+    justify-content: left;
+    
+    
+
+}
+.list{
+    justify-content: left;
+    list-style:none; 
+    padding:10px; 
+}
+.strikethrough {
+    color: rgb(255, 0, 0);
+    text-decoration: line-through;
+}
+
+
+.check{
+    background-color: rgb(240, 185, 255);
+}

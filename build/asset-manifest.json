@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/09-todo-react-group-bella-yina-final/static/css/main.31d6cfe0.css",
+    "main.js": "/09-todo-react-group-bella-yina-final/static/js/main.4501db03.js",
+    "index.html": "/09-todo-react-group-bella-yina-final/index.html",
+    "main.4501db03.js.map": "/09-todo-react-group-bella-yina-final/static/js/main.4501db03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.4501db03.js"
+  ]
+}

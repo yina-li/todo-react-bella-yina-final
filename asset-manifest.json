@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/yina-li/09-todo-react-group-bella-yina/static/css/main.47bee20d.css",
-    "main.js": "/yina-li/09-todo-react-group-bella-yina/static/js/main.5fff11ad.js",
-    "index.html": "/yina-li/09-todo-react-group-bella-yina/index.html",
-    "main.47bee20d.css.map": "/yina-li/09-todo-react-group-bella-yina/static/css/main.47bee20d.css.map",
-    "main.5fff11ad.js.map": "/yina-li/09-todo-react-group-bella-yina/static/js/main.5fff11ad.js.map"
+    "main.css": "/yina-li/todo-react-bella-yina-final/static/css/main.47bee20d.css",
+    "main.js": "/yina-li/todo-react-bella-yina-final/static/js/main.5fff11ad.js",
+    "index.html": "/yina-li/todo-react-bella-yina-final/index.html",
+    "main.47bee20d.css.map": "/yina-li/todo-react-bella-yina-final/static/css/main.47bee20d.css.map",
+    "main.5fff11ad.js.map": "/yina-li/todo-react-bella-yina-final/static/js/main.5fff11ad.js.map"
   },
   "entrypoints": [
     "static/css/main.47bee20d.css",
